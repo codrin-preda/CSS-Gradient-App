@@ -9,5 +9,4 @@ Copy the generated code to your clipboard by clicking on the "Copy" button.
 Paste the code into your CSS stylesheet or HTML file.
 Random Gradient Generator
 Click on the "Random Gradient" button to generate a new random gradient.
-Credits
-This project was created by [Your Name] as a personal project. It was built using HTML, CSS, and JavaScript, and utilizes the Font Awesome icon library and the Google Fonts API.
+It was built using HTML, CSS, and JavaScript, and utilizes the Font Awesome icon library and the Google Fonts API.
